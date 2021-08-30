@@ -1,17 +1,18 @@
 <link rel="stylesheet" href="./assets/css/style.css" />
-<h1 style="color: blue; font-size: 100px;">RUN BUDDY</h1>
+<h1 style="8color: blue; font-size: 100px;">RUN BUDDY</h1>
 <head>
   <meta charset="UTF-8" />
   <title>RUN BUDDY</title>
 
   <!-- Add this to the page and see what happens! -->
   <style>
-    body {
-      /* more on this crazy alphanumerical value in a minute!*/
+    body {1
+      /* more on this crazy alphanmerical value ina minute */
       color: #39a6b2;
       font-family: Helvetica, Arial, sans-serif;
-     
-    }h1 {
+       
+    }
+    h1 {
   font-size: 100px;
 }  </style>
 </head>
